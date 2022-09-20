@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-weight: 900;
+  text-align: center;
+  font-size: 5rem;
+  color: white;
+}
+
+.container{
+  padding-top: 12%;
+
+}
+
+p{
+  color: white;
+  font-size: 2rem;
+  font-weight: 500;
+
+}
+.dice{
+  display: inline-block;
+  padding:8%;
+
+}
